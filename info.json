@@ -1,0 +1,13 @@
+{
+    "OWNER_IDS": [
+      387923086730723329,869101396937543740,885589960508440607
+    ],
+    "name": "NBOT",
+    "server": "https://discord.gg/flw",
+    "ch": "1225431069592125552",
+    "OpenAi": "Put-Your-OpenAI-API-Key-Here IF YOU HAVE",
+    "EXTENSIONS": ["cogs.events"],
+    "np": [
+      
+    ]
+}

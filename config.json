@@ -1,0 +1,68 @@
+{
+    "guilds": {
+        "1016960892421812284": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "admins": [],
+            "adminrole": null,
+            "punishment": "ban",
+            "prefix": "$",
+            "staff": null,
+            "vip": null,
+            "girl": null,
+            "guest": null,
+            "frnd": null,
+            "wlrole": null,
+            "reqrole": null
+        },
+        "1206181726880145459": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "admins": [],
+            "adminrole": null,
+            "punishment": "ban",
+            "prefix": "$",
+            "staff": null,
+            "vip": null,
+            "girl": null,
+            "guest": null,
+            "frnd": null,
+            "wlrole": null,
+            "reqrole": null
+        },
+        "758051172803411998": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "admins": [],
+            "adminrole": null,
+            "punishment": "ban",
+            "prefix": ".",
+            "staff": null,
+            "vip": null,
+            "girl": null,
+            "guest": null,
+            "frnd": null,
+            "wlrole": null,
+            "reqrole": null
+        },
+        "1080083008163430470": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "admins": [],
+            "adminrole": null,
+            "punishment": "ban",
+            "prefix": ".",
+            "staff": null,
+            "vip": null,
+            "girl": null,
+            "guest": null,
+            "frnd": null,
+            "wlrole": null,
+            "reqrole": null
+        }
+    }
+}
